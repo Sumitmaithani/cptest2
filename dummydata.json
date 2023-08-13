@@ -1,0 +1,363 @@
+{
+    "_id": {
+        "$oid": "64d652e64a4e5d76bd48a469"
+    },
+    "Name": "Microsoft Excel for Beginners",
+    "Category": "Excel for Beginners",
+    "Description": "This training program will digitally empower officials to provide efficient and effective citizen-centric services to the vulnerable and underprivileged sections of society. It will enable them to deliver last-mile social welfare services.",
+    "LearningHours": "10h 30m",
+    "Subjects": [
+        "Data Management",
+        "IT",
+        "Computer Science",
+        "MS Excel"
+    ],
+    "Image": "https://images.unsplash.com/photo-1633114128814-11fac33f707b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "Summary": "Welcome to the Beginner's Guide course in Excel. This Excel Course enables you to Learn MS Excel in simple and easy steps. In this course we will learn how to Enter and edit Excel data, Format numbers, fonts, and alignment make simple pivot tables and charts, create simple Excel formulas, filters, formatting. Learn common Excel functions used in any Office. Expected Outcomes: · Understand how to start Excel documents and navigate through them, · One can pin documents and templates in MS Excel as per their requirement. · Every Ribbon menu comprises functions that help in using MS Excel easily. · Understand the different elements of Excel and how to use them. · Individuals can look into specific Sheet Views, zoom into the data, and even input the data. · Individuals can insert, store, wrap, and format data in worksheets..",
+    "Competencies": [
+        {
+            "name": "Data Management",
+            "status": "NIL"
+        },
+        {
+            "name": "Data collection and analysis",
+            "status": "NIL"
+        },
+        {
+            "name": "Business Needs Analysis",
+            "status": "NIL"
+        },
+        {
+            "name": "Qualitative Analysis",
+            "status": "NIL"
+        },
+        {
+            "name": "Microsoft Excel for Beginners",
+            "status": "NIL"
+        }
+    ],
+    "Content": [
+        {
+            "section": "Section 1 : Introduction",
+            "modules": [
+                {
+                    "name": "Introduction to Microsoft Excel",
+                    "duration": "20m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Setting Up Excel Environment",
+                    "duration": "15m",
+                    "link": "https://www.youtube.com/embed/y4bA2CNScg8",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Entering and Editing Data",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/nOS2jBSnIVE",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Formatting Cells",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/7tx1H7sxSL0",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Creating Simple Formulas",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/8u1PnceNoG4",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Introduction to Charts",
+                    "duration": "20m",
+                    "link": "https://www.youtube.com/embed/jbno1SwmIFE",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 2 : Basic Functions",
+            "modules": [
+                {
+                    "name": "SUM and AVERAGE Functions",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/UeJWCqJysKI",
+                    "status": "NIL"
+                },
+                {
+                    "name": "MIN and MAX Functions",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/WvYP4--CCc8",
+                    "status": "NIL"
+                },
+                {
+                    "name": "COUNT and COUNTA Functions",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "IF Function",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "VLOOKUP Function",
+                    "duration": "40m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "HLOOKUP Function",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 3 : Advanced Features",
+            "modules": [
+                {
+                    "name": "Pivot Tables",
+                    "duration": "45m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Data Validation",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Conditional Formatting",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Charts and Graphs",
+                    "duration": "40m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Advanced Formulas",
+                    "duration": "50m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Protecting Worksheets",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 4 : Data Analysis",
+            "modules": [
+                {
+                    "name": "Sorting and Filtering Data",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Subtotals and Grouping Data",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "What-If Analysis",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Scenario Manager",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Goal Seek and Solver",
+                    "duration": "40m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Data Tables",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 5 : Data Visualization",
+            "modules": [
+                {
+                    "name": "Creating Basic Charts",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Advanced Charts",
+                    "duration": "40m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Sparklines and Trendlines",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Customizing Charts",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Chart Animations",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Interactive Dashboards",
+                    "duration": "45m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 6 : Data Manipulation",
+            "modules": [
+                {
+                    "name": "Text to Columns",
+                    "duration": "25m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Removing Duplicates",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Data Consolidation",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Data Validation Techniques",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Text Functions",
+                    "duration": "40m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Data Cleaning and Transformation",
+                    "duration": "45m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 7 : Formulas and Functions",
+            "modules": [
+                {
+                    "name": "Logical Functions (IF, AND, OR)",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Mathematical Functions",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Date and Time Functions",
+                    "duration": "40m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Lookup and Reference Functions",
+                    "duration": "35m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Array Formulas",
+                    "duration": "45m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Text Functions",
+                    "duration": "30m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        },
+        {
+            "section": "Section 8 : Project and Certification",
+            "modules": [
+                {
+                    "name": "Course Project Introduction",
+                    "duration": "15m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Project Guidelines",
+                    "duration": "20m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Project Work Session",
+                    "duration": "180m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Final Assessment",
+                    "duration": "45m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                },
+                {
+                    "name": "Course Completion and Certification",
+                    "duration": "10m",
+                    "link": "https://www.youtube.com/embed/bF31VEFvMmY",
+                    "status": "NIL"
+                }
+            ]
+        }
+    ]
+}
